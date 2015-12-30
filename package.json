@@ -1,7 +1,7 @@
 {
   "name": "gulp-remark",
   "description": "Gulp plugin for Remark — markdown processor powered by plugins",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "keywords": [
     "gulpplugin",
     "remark",
