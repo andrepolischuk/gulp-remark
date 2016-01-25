@@ -38,5 +38,6 @@
     "postpublish": "rimraf index.es5.js && git push --follow-tags"
   },
   "author": "Andrey Polischuk <andre.polischuk@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true
 }
