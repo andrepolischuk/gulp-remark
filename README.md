@@ -1,6 +1,8 @@
 # gulp-remark [![Build Status][travis-image]][travis-url]
 
-> Experimental Gulp plugin for [Remark][remark] — markdown processor powered by plugins
+> Gulp plugin for [Remark][remark] — markdown processor powered by plugins
+
+**This plugin is deprecated**, use [denysdovhan/gulp-remark][gulp-remark] instead.
 
 ## Install
 
@@ -67,3 +69,5 @@ MIT
 [remark]: https://github.com/wooorm/remark
 [remark-plugins]: https://github.com/wooorm/remark/blob/master/doc/plugins.md
 [remark-settings]: https://github.com/wooorm/remark/blob/master/doc/remarksetting.7.md
+
+[gulp-remark]: https://github.com/denysdovhan/gulp-remark
