@@ -1,11 +1,11 @@
 # gulp-remark [![Build Status][travis-image]][travis-url]
 
-> Gulp plugin for [Remark][remark] — markdown processor powered by plugins
+> Experimental Gulp plugin for [Remark][remark] — markdown processor powered by plugins
 
 ## Install
 
 ```sh
-npm install --save-dev gulp-remark
+npm install --save-dev andrepolischuk/gulp-remark
 ```
 
 ## Usage
